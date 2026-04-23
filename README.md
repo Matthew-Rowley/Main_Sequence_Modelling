@@ -6,6 +6,7 @@ The main file is split into two analysis parts:
 2. Analysing individual stars from the main sequence
 
 To create a main sequence, create a list of central temperatures (range from about 1e6 to 5e7) and run plot_main_sequence()
+
 To analyze a star, pick a central temperature, run it through pcrootlist(), and then run the solution through plotting()
 
 Below are some example plots created by the code.
